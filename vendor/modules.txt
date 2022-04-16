@@ -1,0 +1,5 @@
+# gogit.oa.com/March/gopkg v0.0.0-00010101000000-000000000000 => ../gopkg
+## explicit; go 1.14
+gogit.oa.com/March/gopkg/protocol/rpcpack
+gogit.oa.com/March/gopkg/util
+# gogit.oa.com/March/gopkg => ../gopkg
